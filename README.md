@@ -1,1 +1,0 @@
-# Sign-Language-Translate-System-between-Dentist-and-Deaf-Patients

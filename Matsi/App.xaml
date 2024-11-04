@@ -1,0 +1,9 @@
+﻿<Application x:Class="Matsi.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Matsi"
+             StartupUri="View/ShellWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source\\Repos\\MatsiPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65E36A27-3A13-46DD-958A-F39883B22E1A}|Matsi\\Matsi.csproj|d:\\source\\repos\\matsipro\\matsi\\view\\transcriber_client.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65E36A27-3A13-46DD-958A-F39883B22E1A}|Matsi\\Matsi.csproj|solutionrelative:matsi\\view\\transcriber_client.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E36A27-3A13-46DD-958A-F39883B22E1A}|Matsi\\Matsi.csproj|d:\\source\\repos\\matsipro\\matsi\\view\\shellwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65E36A27-3A13-46DD-958A-F39883B22E1A}|Matsi\\Matsi.csproj|solutionrelative:matsi\\view\\shellwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E36A27-3A13-46DD-958A-F39883B22E1A}|Matsi\\Matsi.csproj|d:\\source\\repos\\matsipro\\matsi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65E36A27-3A13-46DD-958A-F39883B22E1A}|Matsi\\Matsi.csproj|solutionrelative:matsi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|D:\\Source\\Repos\\MatsiPro\\matsitranscriber\\view\\testingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|solutionrelative:matsitranscriber\\view\\testingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|d:\\source\\repos\\matsipro\\matsitranscriber\\view\\testingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|solutionrelative:matsitranscriber\\view\\testingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|d:\\source\\repos\\matsipro\\matsitranscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|solutionrelative:matsitranscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|D:\\Source\\Repos\\MatsiPro\\matsitranscriber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|solutionrelative:matsitranscriber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|d:\\source\\repos\\matsipro\\matsitranscriber\\view\\shellwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|solutionrelative:matsitranscriber\\view\\shellwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|D:\\Source\\Repos\\MatsiPro\\matsitranscriber\\view\\shellwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9433CD8A-A71B-42A6-A527-5183C8C3EC34}|MatsiTranscriber\\MatsiTranscriber.csproj|solutionrelative:matsitranscriber\\view\\shellwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C621CEE4-9D71-4E17-8843-E92463B7E45E}|APITester\\APITester.csproj|d:\\source\\repos\\matsipro\\apitester\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C621CEE4-9D71-4E17-8843-E92463B7E45E}|APITester\\APITester.csproj|solutionrelative:apitester\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C621CEE4-9D71-4E17-8843-E92463B7E45E}|APITester\\APITester.csproj|d:\\source\\repos\\matsipro\\apitester\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C621CEE4-9D71-4E17-8843-E92463B7E45E}|APITester\\APITester.csproj|solutionrelative:apitester\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transcriber_Client.xaml",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\Matsi\\View\\Transcriber_Client.xaml",
+              "RelativeDocumentMoniker": "Matsi\\View\\Transcriber_Client.xaml",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\Matsi\\View\\Transcriber_Client.xaml",
+              "RelativeToolTip": "Matsi\\View\\Transcriber_Client.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T14:16:46.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\Matsi\\App.xaml",
+              "RelativeDocumentMoniker": "Matsi\\App.xaml",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\Matsi\\App.xaml",
+              "RelativeToolTip": "Matsi\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T13:59:48.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShellWindow.xaml",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\Matsi\\View\\ShellWindow.xaml",
+              "RelativeDocumentMoniker": "Matsi\\View\\ShellWindow.xaml",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\Matsi\\View\\ShellWindow.xaml",
+              "RelativeToolTip": "Matsi\\View\\ShellWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T13:57:09.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\Program.cs",
+              "RelativeDocumentMoniker": "MatsiTranscriber\\Program.cs",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\Program.cs",
+              "RelativeToolTip": "MatsiTranscriber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:49:11.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShellWindow.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\View\\ShellWindow.cs",
+              "RelativeDocumentMoniker": "MatsiTranscriber\\View\\ShellWindow.cs",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\View\\ShellWindow.cs",
+              "RelativeToolTip": "MatsiTranscriber\\View\\ShellWindow.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:40:05.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\APITester\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "APITester\\MainWindow.xaml",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\APITester\\MainWindow.xaml",
+              "RelativeToolTip": "APITester\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T13:19:36.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\APITester\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "APITester\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\APITester\\MainWindow.xaml.cs",
+              "RelativeToolTip": "APITester\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:19:27.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestingWindow.cs",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\View\\TestingWindow.cs",
+              "RelativeDocumentMoniker": "MatsiTranscriber\\View\\TestingWindow.cs",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\View\\TestingWindow.cs",
+              "RelativeToolTip": "MatsiTranscriber\\View\\TestingWindow.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:58:05.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestingWindow.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\View\\TestingWindow.cs",
+              "RelativeDocumentMoniker": "MatsiTranscriber\\View\\TestingWindow.cs",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\View\\TestingWindow.cs [Design]",
+              "RelativeToolTip": "MatsiTranscriber\\View\\TestingWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:02:11.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\Form1.cs",
+              "RelativeDocumentMoniker": "MatsiTranscriber\\Form1.cs",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\Form1.cs [Design]",
+              "RelativeToolTip": "MatsiTranscriber\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:37:22.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShellWindow.cs [Design]",
+              "DocumentMoniker": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\View\\ShellWindow.cs",
+              "RelativeDocumentMoniker": "MatsiTranscriber\\View\\ShellWindow.cs",
+              "ToolTip": "D:\\Source\\Repos\\MatsiPro\\MatsiTranscriber\\View\\ShellWindow.cs [Design]",
+              "RelativeToolTip": "MatsiTranscriber\\View\\ShellWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:39:47.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
